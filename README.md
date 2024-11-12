@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maheshpalaka298
-- 👀 I’m interested in Tech enthusiast
-- 🌱 I’m currently learning under graduation
+- 👋 Hi, I’m Mahesh Palaka
+- 👀 I’m a Tech enthusiast
+- 🌱 I’m a graduate in Electronics and Communication Engineering
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me (https://www.linkedin.com/in/maheshpalaka25/)
 
