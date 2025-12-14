@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahesh Palaka
 - 👀 I’m a Tech enthusiast
-- 🌱 I’m a graduate in Electronics and Communication Engineering
+- 🌱 I’m a Design Verification Engineer at Intel
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me (https://www.linkedin.com/in/maheshpalaka25/)
 
